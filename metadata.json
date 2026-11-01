@@ -1,0 +1,6 @@
+{
+  "name": "Quatro Lotes — Centro Empresarial",
+  "description": "Jogo de gestão empresarial em pixel art 2D com quatro lotes especializados: Educação, Logística, Comércio e Escritórios, simulação de pessoas, obras de 7 dias, contratos e economia detalhada.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
